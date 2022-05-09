@@ -2,7 +2,7 @@
 
 # 知识结构
 
-![](./assets/01.png)
+![](https://cdn.jsdelivr.net/gh/sun0225SUN/DataStructure/01_%E7%BB%AA%E8%AE%BA/assets/01.png)
 
 # 一、数据结构
 
@@ -60,7 +60,7 @@
 
         *   **图形结构**：图形结构中的数据元素是多对多的关系。
 
-            ![](./assets/02.png)
+            ![](https://cdn.jsdelivr.net/gh/sun0225SUN/DataStructure/01_%E7%BB%AA%E8%AE%BA/assets/02.png)
 
     *   物理结构：数据的逻辑结构在计算机中的存储形式
 
